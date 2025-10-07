@@ -1,0 +1,1 @@
+//you have marks of 10 students using a for loop calculate their avg. , highest , lowest marks.
